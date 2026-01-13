@@ -1,1 +1,1 @@
-# External-Feeder-Assisted-Filament-Change-for-Bambu-Lab-A1
+# External Feeder Assisted Filament Change for Bambu Lab A1
