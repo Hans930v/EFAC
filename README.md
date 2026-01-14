@@ -4,6 +4,12 @@
 
 EFAC-A1 provides AMS-like behavior using an external feeder, without using the AMS port, AMS firmware, or internal printer hardware. This system is fully software-safe, supports multi-filament setups, and works seamlessly with Bambu Studio.  
 
+## Why EFAC?
+- The Bambu Lab AMS is great, but not everyone can afford one.
+- EFAC mimics AMS behavior using external hardware or manual swaps.
+- Firmware‑safe: uses official AMS flush logic, so slicer reports stay accurate.
+- Tested: slicer said 8.99 g, actual model & waste weighed 9.00 g → only 0.01 g difference!
+
 ## Gcodes
 ### Semi-Automatic Change Filament Gcode
 For users who want the full EFAC-A1 (external hardware required):
