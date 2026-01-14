@@ -72,6 +72,9 @@ For a single system (4 Colors):
 9. 4 sets of [Prusa MK3 extruder gears (or similar)](https://shopee.ph/BMG-Needle-Roller-Bearing-Gear-Set-3D-Printer-Accessories-Extruder-Material-Delivery-Silk-Stainless-Steel-Wheel-Holder-i.418282980.29485655417?xptdk=cd9329e0-f975-4a48-a71d-a3ccdf8d3131)
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d5b1afb5-3879-4f47-93a2-4be14d516e63" />
 
+---
+
+10. 1pc [24V 3A AC‑DC power supply (100–240VAC input) with a 5.5mm x 2.1mm DC jack output](https://shopee.ph/ZJW-DC24V-Adapt-2A-3A-5A-Power-Supply-24V-LED-Power-Adaptor-i.299909911.3595544010?extraParams=%7B%22display_model_id%22%3A83704275368%2C%22model_selection_logic%22%3A3%7D&sp_atk=40caa47a-5f99-4069-a0ea-1906a6c2429b&xptdk=40caa47a-5f99-4069-a0ea-1906a6c2429b)
 
 ## Features
 - **Software-Safe**: No firmware modifications required.
