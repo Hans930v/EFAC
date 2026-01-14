@@ -64,7 +64,7 @@ For a single system (4 Colors):
 
 ---
 
-8. 4pcs [25mm-3.5W-12V DC geared DC motors](https://shopee.ph/25mm-3.5W-DC-12V-25GA-370-Low-Speed-Metal-Gear-Motor-HG-i.1608647809.25996423159?xptdk=8b73b442-80d2-4de8-84ee-462355968faa)
+8. 4pcs [25mm-3.5W-12V-500rpm geared DC motors](https://shopee.ph/25mm-3.5W-DC-12V-25GA-370-Low-Speed-Metal-Gear-Motor-HG-i.1608647809.25996423159?xptdk=8b73b442-80d2-4de8-84ee-462355968faa)
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e480f827-aa7e-467c-8811-ff7471a3a018" />
 
 ---
