@@ -32,7 +32,7 @@ For users who want the full EFAC-A1 (external hardware required): [**Change Fila
 For users who prefer manual filament change (no hardware): [**Change Filament Gcode for EFAmC-A1**](https://github.com/Hans930v/bambu-a1-g-code/blob/EFAC-A1-EXPERIMENTAL/change-filament/EFAmC-A1.gcode)
 
 ## Features
-- **Software-Safe**: No firmware modifications required.
+- **Software-Safe**: No printer firmware modifications required.
 - **External Feeder**: Works with an external filament feeder to enable AMS-like behavior.
 - **Multi-Filament Support**: Easily handle multiple filaments for diverse printing needs.
 - **Compatible with Bambu Studio**: Fully compatible with Bambu Studio for filament changes.
