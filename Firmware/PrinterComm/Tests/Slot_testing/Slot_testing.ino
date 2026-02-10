@@ -23,7 +23,7 @@ void loop() {
     String command = Serial.readStringUntil('\n'); // read until Enter
     command.trim(); // remove spaces/newlines
 
-    if (command.equalsIgnoreCase("record")) {
+    if (command.equalsIgnoreCase("record")) { // type record on the Serial Monitor
       // Take a single measurement
       uint16_t distance = sensor.readRangeSingleMillimeters();
 
